@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lista de la compra</string>
+    <string name="Nombre" />
+    <string name="Apellidos" />
+    <string name="nom">Nombre</string>
+    <string name="Ape">Apellidos</string>
+    <string name="Edad18">+18</string>
+    <string name="cocacola">Cocacola</string>
+    <string name="cocaco">Cocacola 0.75€</string>
+    <string name="kaslimon">Kas Limon 0.54€</string>
+    <string name="cantidad" />
+    <string name="canti">0</string>
+    <string name="listaCompra">Lista de Pedido</string>
+    <string name="kasnaranja">Kas Naranja 0.54€</string>
+    <string name="rebull">Red Bull 1.25€</string>
+    <string name="cerveza">Cerveza 0.62€</string>
+    <string name="vino">Vino 3.21€</string>
+    <string name="calcular">Calcular</string>
+</resources>
